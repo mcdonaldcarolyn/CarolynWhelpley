@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         	
-				<p>Aquarium Biologist and Full stackweb Developer.  I want to build dynamic helpful web apps. Tech for good <a href="/CarolynWhelpley/about">Read more about my life...</a></p>
+				<p>Aquarium Biologist and Full stackweb Developer.  I want to build dynamic helpful web apps. Tech for good 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
