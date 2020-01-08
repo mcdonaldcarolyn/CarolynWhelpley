@@ -16,8 +16,8 @@
     		<div class="blurb">
         	
 				<p>Aquarium Biologist and Full stackweb Developer.  I want to build dynamic helpful web apps. Tech for good 
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
+    		</div>
+		</div>
 		<footer>
     		<ul>
         		<li><a href="mailto:carolynwhelpley@hotmail.com">email</a></li>
